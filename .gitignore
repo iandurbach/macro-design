@@ -4,5 +4,7 @@
 .Ruserdata
 packrat/lib*/
 packrat/bundles/
-packrat/src/
 data/
+report/*
+!report/macro-design-report.tex
+!report/secr_refs.bib
