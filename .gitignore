@@ -8,3 +8,4 @@ data/
 report/*
 !report/macro-design-report.tex
 !report/secr_refs.bib
+!report/img
